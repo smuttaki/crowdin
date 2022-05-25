@@ -6,11 +6,11 @@
 
 "files": [
   {
-    "source": "/de_locale/locale_en.properties",                                       #source files filter
+    "source": "./de_locale/locale_en.properties",                                       #source files filter
     "translation": "/locale/en/folder1/locale_en"        #where translations are stored
   },
   {
-    "source": "/de_locale/locale_de.properties",                                       #source files filter
+    "source": "./de_locale/locale_de.properties",                                       #source files filter
     "translation": "/locale/de/folder1/locale_de"        #where translations are stored
   }
 ]
