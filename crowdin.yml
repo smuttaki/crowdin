@@ -14,3 +14,7 @@
     "translation": "/locale/de/folder1/locale_de"        #where translations are stored
   }
 ]
+"labels":
+    - UK_website
+    - Seimens
+     
