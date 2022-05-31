@@ -1,6 +1,6 @@
 files:
   - source: /de_locale/locale_en.properties
-    translation: /de_locale/%two_letters_code%/%original_file_name%
+    translation: /de_locale/locale_%two_letters_code%.properties
     labels:
       - Siemens
       - DE_Website
