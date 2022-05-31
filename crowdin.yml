@@ -1,11 +1,5 @@
 files:
   - source: /de_locale/locale_en.properties
     translation: /de_locale/locale_%two_letters_code%.properties
-    labels:
-      - Siemens
-      - DE_Website
   - source: /uk_website/locale_en.properties
     translation: /uk_website/locale_%two_letters_code%.properties
-    labels:
-      - Bosch
-      - UK_Website
